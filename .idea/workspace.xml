@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f285d105-5ca8-42fa-986c-b60c19e6324a" name="Default Changelist" comment="структура React-компонентов" />
+    <list default="true" id="f285d105-5ca8-42fa-986c-b60c19e6324a" name="Default Changelist" comment="структура React-компонентов">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/search-panel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search-panel.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +68,7 @@
       <workItem from="1633422988581" duration="13000" />
       <workItem from="1633423011182" duration="522000" />
       <workItem from="1633509957800" duration="16668000" />
+      <workItem from="1634638992830" duration="112000" />
     </task>
     <task id="LOCAL-00001" summary="start todo app">
       <created>1633510200354</created>
@@ -93,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634204286345</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="структура React-компонентов">
+      <created>1634639034244</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1634639034244</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,10 +121,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start todo app" />
     <MESSAGE value="структурирование React-компонентов" />
-    <option name="LAST_COMMIT_MESSAGE" value="структурирование React-компонентов" />
+    <MESSAGE value="структура React-компонентов" />
+    <option name="LAST_COMMIT_MESSAGE" value="структура React-компонентов" />
   </component>
 </project>
